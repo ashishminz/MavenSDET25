@@ -8,7 +8,7 @@ public class BetaTest {
 	@Test
 	public void secondMethod() {
 		
-		System.out.println("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb");
+		System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaa");
 
 	}
 
